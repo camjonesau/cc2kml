@@ -3,7 +3,7 @@ This update contains the following:
 
 [ Bug Fixes ]
 
-Run once scipts
+Run once scripts
 Config startups
 Permissions
 
