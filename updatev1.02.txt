@@ -1,8 +1,10 @@
-This update provides the following:
+This update contains the following:
 
-Bug Fixes : 
 
+[ Bug Fixes ]
 Run once scipts
 Config startups
 Permissions
-Config Editor finalised
+
+[ Enhancements ]
+Config Editor
