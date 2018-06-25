@@ -2,9 +2,13 @@ This update contains the following:
 
 
 [ Bug Fixes ]
+
 Run once scipts
 Config startups
 Permissions
 
+
+
 [ Enhancements ]
+
 Config Editor
